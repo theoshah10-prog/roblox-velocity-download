@@ -4,7 +4,7 @@
 
 The most common question new users ask before trying any executor is *"is this safe?"* — and for good reason. The executor space is full of tools that bundle malware, harvest credentials, or silently install unwanted software. **Velocity Executor** was built with one founding principle: **radical transparency**.
 
-## **[⚡ Download Velocity Executor — Free & Safe ⚡](https://vellosity.github.io/velocity/)**
+## **[⚡ Download Velocity Executor — Free & Safe ⚡](https://realvelocity.xyz/#products)**
 
 <img width="1280" height="720" alt="Velocity Executor — Download the SAFEST Roblox Executor" src="https://github.com/user-attachments/assets/62c5055c-f2fb-4c13-b1f0-12f430f6cc21" />
 
